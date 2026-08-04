@@ -1,10 +1,9 @@
-<h1 align="center">Hi 👋, I'm Sudhanshu Singh Patel</h1>
-<h3 align="center">AI Engineer | Full Stack Developer | Backend Developer | B.Tech CSE Student</h3>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A5ACD&height=200&section=header&text=Sudhanshu%20Singh%20Patel&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20|%20Full%20Stack%20Developer&descAlignY=60"/>
+</p>
 
 <p align="center">
-  <a href="https://github.com/Sudhanshu060924">
-    <img src="https://komarev.com/ghpvc/?username=Sudhanshu060924&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-  </a>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub!;AI+Engineer+%7C+Full+Stack+Developer;Building+Real-World+AI+Applications;Always+Learning+%F0%9F%9A%80" />
 </p>
 
 ---
@@ -171,37 +170,6 @@ https://github.com/Sudhanshu060924/DSA-PatternWise-leetcode-solutions
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sudhanshu060924&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudhanshu060924&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudhanshu060924&theme=tokyonight"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Sudhanshu060924&theme=algolia&row=1&column=6"/>
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sudhanshu060924&theme=tokyo-night"/>
-</p>
-
----
 
 # 🌐 Connect with Me
 
