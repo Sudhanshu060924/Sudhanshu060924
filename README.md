@@ -207,7 +207,7 @@ https://github.com/Sudhanshu060924/DSA-PatternWise-leetcode-solutions
 
 <p align="left">
 
-<a href="mailto:Sudhanshusingh0624@gmail.com">
+<a href="mailto:Sudhanshusingh.dev@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
